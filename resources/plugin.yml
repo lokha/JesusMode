@@ -1,0 +1,4 @@
+name: JesusMode
+main: ua.govnojon.jesusmode.JesusModePlugin
+version: 1
+author: govnojon
